@@ -25,3 +25,10 @@ Git is a version control system used for tracking changes in code, while GitHub 
 f. What does git diff do?
 git diff shows the differences between changes made to files in the working directory and the staging area.
 
+g. What is the main branch?
+The main branch, often named "master" or "main," serves as the primary line of development in a Git repository, typically reflecting the most stable version of the project.
+
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+no. It's generally recommended to avoid pushing changes directly to the main branch and instead create a new branch for feature development or bug fixes, then merge them into the main branch through a pull request after review.
