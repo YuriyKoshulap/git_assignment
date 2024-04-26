@@ -6,7 +6,18 @@ A pull request is a proposal to merge a set of changes from one branch into anot
 
 c. How do I open up a pull request?
 
+git pull origin branch-name
+
+or
+
+git pull origin main
+
 d. Give me a step by step guide on how to add someone to your repository.
+1. Navigate to Your Repository
+2. Access Repository Settings
+3. Manage Access or Collaborators
+4. Choose Access Level
+5. Confirm and Save Changes
 
 e. What is the difference between git and GitHub?
 
