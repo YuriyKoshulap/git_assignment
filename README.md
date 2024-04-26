@@ -19,3 +19,9 @@ d. Give me a step by step guide on how to add someone to your repository.
 4. Choose Access Level
 5. Confirm and Save Changes
 
+e. What is the difference between git and GitHub?
+Git is a version control system used for tracking changes in code, while GitHub is a web-based platform built around Git, providing hosting, collaboration, and project management tools for code repositories.
+
+f. What does git diff do?
+git diff shows the differences between changes made to files in the working directory and the staging area.
+
