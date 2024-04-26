@@ -1,1 +1,1 @@
-# Git Assignment - <YuriyKoshulap>
+# Git Assignment - YuriyKoshulap
